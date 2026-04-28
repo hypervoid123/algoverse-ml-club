@@ -1,1 +1,1 @@
-# algoverse-ml-club
+# tim-dndy
